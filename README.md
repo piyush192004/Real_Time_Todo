@@ -40,7 +40,7 @@ Please make sure to update tests as appropriate.
 
 MIT License
 
-Copyright (c) 2023 Ayan Banerjee
+Copyright (c) 2025 Piyush Kumar Singh 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
